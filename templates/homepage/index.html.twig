@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1 {{ stimulus_controller('symfony/ux-typed', {
+        strings: ['Hello 👋!'],
+        showCursor: false,
+        cursorChar: '✨',
+        smartBackspace: true,
+    }) }}></h1>
+
+    <hr/>
+
+    <div class="container">
+        <h2>How cool are we?</h2>
+        {{ render_chart(chart) }}
+    </div>
+
+    <h2>Reversing input - Really cool!</h2>
+    <div {{ vue_component('ReversingInput') }}></div>
+
+{% endblock %}
