@@ -7,58 +7,31 @@ Please check the [projects](#projects) section for more details.
 
 ---
 ## Overview
-| Title                                   | Branch           | React Version | Node Version | Inspired By                                   |
-|-----------------------------------------|------------------|---------------|--------------|-----------------------------------------------|
-| [Simple Todo App][shaden-bsharat]       | `shaden-bsharat` | `^18.2`       | `18.13`      | [Simple Todo App][shaden-bsharat-url-tooltip] |
-| [To-Do in React.js][kavishmehta]        | `kavishmehta`    | `^15.4`       | `12.22`      | [To-Do in React.js][kavishmehta-url]          |
+| Title                                | Branch          | Symfony Version | PHP Version | Inspired By                                                 |
+|--------------------------------------|-----------------|-----------------|-------------|-------------------------------------------------------------|
+| [Symfony UX Chart.js][jakub-tobiasz] | `jakub-tobiasz` | `^5.4`          | `^8.1`      | [Discover Symfony UX components][jakub-tobiasz-url-tooltip] |
 
 
 ---
 ## Projects
-<details><summary>Simple Todo App</summary>  
+<details><summary>Symfony UX Chart.js</summary>  
 <p>
 
-![React App](https://user-images.githubusercontent.com/5810350/214475325-837151ed-2886-470c-b482-f787af0a3ca2.png)
+![Symfony UX Chart](todo)
 
-**Project Description:** This is a simple todo app with react  
-**Project Link:** https://github.com/habibun/react/tree/shaden-bsharat  
-**Inspired By:** [How to Build a Simple Todo App with React][shaden-bsharat-url]  
+**Project Description:** Discover Symfony UX components and enhance your front-end using Symfony UX Chart.js
+**Project Link:** https://github.com/habibun/symfony-ux/tree/jakub-tobiasz  
+**Inspired By:** [Discover Symfony UX components and enhance your front-end][jakub-tobiasz-url]  
 <br/>
 
 #### Installation
 ```bash
-git clone git@github.com:habibun/react.git
-cd react
-git checkout shaden-bsharat
-git pull origin shaden-bsharat
-npm install
-npm start
-```
-
-</p>
-</details>
-
-
-
-
-<details><summary>To-Do in React.js</summary>  
-<p>
-
-![React App](https://user-images.githubusercontent.com/5810350/214866660-176d87ff-fcd6-497c-be83-71d4dec46025.png)
-
-**Project Description:** This is a simple todo app with react  
-**Project Link:** https://github.com/habibun/react/tree/kavishmehta  
-**Inspired By:** [To-Do in React.js][kavishmehta-url]  
-<br/>
-
-#### Installation
-```bash
-git clone git@github.com:habibun/react.git
-cd react
-git checkout kavishmehta
-git pull origin kavishmehta
-npm install
-npm start
+git clone git@github.com:habibun/symfony-ux.git
+cd symfony-ux
+git checkout jakub-tobiasz
+git pull origin jakub-tobiasz
+symfony composer install
+symfony server:start
 ```
 
 </p>
@@ -71,12 +44,6 @@ npm start
 - [How Symfony UX United Two Worlds](https://blog.alphpaca.io/how-symfony-ux-united-two-worlds-21a89fc04410)
 
 
-
----
-## Related
-[Redux](https://github.com/habibun/redux)
-
-
 ---
 ## License
 Distributed under the MIT License. See **[LICENSE][license]** for more information.
@@ -86,25 +53,8 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 [topic]: https://ux.symfony.com/
 [license]: https://github.com/habibun/symfony-ux/blob/main/LICENSE
 
-[//]: # (Projects)
-[shaden-bsharat]: https://github.com/habibun/react/tree/shaden-bsharat
-[shaden-bsharat-url]: https://blog.devgenius.io/how-to-build-a-simple-todo-app-with-react-dd979a6a7a8a
-[shaden-bsharat-url-tooltip]: https://blog.devgenius.io/how-to-build-a-simple-todo-app-with-react-dd979a6a7a8a "How to Build a Simple Todo App with React"
+[//]: # (Symfony UX Chart.js)
+[jakub-tobiasz]: https://github.com/habibun/react/tree/jakub-tobiasz
+[jakub-tobiasz-url]: https://blog.alphpaca.io/discover-symfony-ux-components-and-enhance-your-front-end-ffff3a7c0177
+[jakub-tobiasz-url-tooltip]: https://blog.alphpaca.io/discover-symfony-ux-components-and-enhance-your-front-end-ffff3a7c0177 "Discover Symfony UX components and enhance your front-end"
 
-[//]: # (To-Do in React.js)
-[kavishmehta]: https://github.com/habibun/react/tree/kavishmehta
-[kavishmehta-url]: https://codepen.io/kavishmehta/pen/yaxwVR
-
-
-[//]: # (React starter kit)
-[starter-kit]: https://github.com/habibun/react/tree/starter-kit
-
-
-[//]: # (Simple counter with Flux architecture)
-[react-flux]: https://github.com/habibun/react/tree/react-flux
-[react-flux-tooltip]: https://github.com/habibun/react/tree/react-flux "Simple counter with Flux architecture"
-
-[//]: # (CRUD Operations)
-[nishant-kumar]: https://github.com/habibun/react/tree/nishant-kumar
-[nishant-kumar-url]: https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/
-[nishant-kumar-url-tooltip]: https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/ "How to Perform CRUD Operations using React, React Hooks, and Axios"
