@@ -6,9 +6,9 @@ Please check the [projects](#projects) section for more details.
 
 
 ## Overview
-| Title                                | Branch          | Symfony Version | PHP Version | Inspired By                                                 |
-|--------------------------------------|-----------------|-----------------|-------------|-------------------------------------------------------------|
-| [Symfony UX Chart.js][jakub-tobiasz] | `jakub-tobiasz` | `^5.4`          | `^8.1`      | [Discover Symfony UX components][jakub-tobiasz-url-tooltip] |
+| Title                                | Branch          | Symfony Version | PHP Version | Inspired By                                      |
+|--------------------------------------|-----------------|-----------------|-------------|--------------------------------------------------|
+| [Symfony UX Chart.js][jakub-tobiasz] | `jakub-tobiasz` | `^5.4`          | `^8.1`      | [Discover Symfony UX][jakub-tobiasz-url-tooltip] |
 
 
 ## Projects
