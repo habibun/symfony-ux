@@ -59,7 +59,7 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 [license]: https://github.com/habibun/symfony-ux/blob/main/LICENSE
 
 [//]: # (Symfony UX Chart.js)
-[jakub-tobiasz]: https://github.com/habibun/react/tree/jakub-tobiasz
+[jakub-tobiasz]: https://github.com/habibun/symfony-ux/tree/jakub-tobiasz
 [jakub-tobiasz-url]: https://blog.alphpaca.io/discover-symfony-ux-components-and-enhance-your-front-end-ffff3a7c0177
 [jakub-tobiasz-url-tooltip]: https://blog.alphpaca.io/discover-symfony-ux-components-and-enhance-your-front-end-ffff3a7c0177 "Discover Symfony UX components and enhance your front-end"
 
