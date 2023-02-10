@@ -5,22 +5,25 @@ In this repository, every branch holds a separate example project except the mai
 Please check the [projects](#projects) section for more details.
 
 
----
 ## Overview
 | Title                                | Branch          | Symfony Version | PHP Version | Inspired By                                                 |
 |--------------------------------------|-----------------|-----------------|-------------|-------------------------------------------------------------|
 | [Symfony UX Chart.js][jakub-tobiasz] | `jakub-tobiasz` | `^5.4`          | `^8.1`      | [Discover Symfony UX components][jakub-tobiasz-url-tooltip] |
 
 
----
 ## Projects
 <details><summary>Symfony UX Chart.js</summary>  
 
 <p>  
-  
-![Symfony UX Chart](https://user-images.githubusercontent.com/5810350/218063260-f11af1b3-7928-4ef5-832b-153befb8c1cb.png)
 
-**Project Description:** Discover Symfony UX components and enhance your front-end using Symfony UX Chart.js
+
+<img 
+src="https://user-images.githubusercontent.com/5810350/218063260-f11af1b3-7928-4ef5-832b-153befb8c1cb.png" 
+alt="Symfony UX Chart" 
+height="300" 
+/>
+
+**Project Description:** Discover Symfony UX components and enhance your front-end using Symfony UX Chart.js  
 **Project Link:** https://github.com/habibun/symfony-ux/tree/jakub-tobiasz  
 **Inspired By:** [Discover Symfony UX components and enhance your front-end][jakub-tobiasz-url]  
 <br/>
@@ -43,7 +46,8 @@ symfony server:start
 - [Official Symfony UX Docs](https://ux.symfony.com/)
 - [Stimulus](https://stimulus.hotwired.dev/)
 - [How Symfony UX United Two Worlds](https://blog.alphpaca.io/how-symfony-ux-united-two-worlds-21a89fc04410)
-
+- [Render beautiful graphs with chart.js](https://ux.symfony.com/chartjs)
+- [Chart.js](https://www.chartjs.org/)
 
 ---
 ## License
