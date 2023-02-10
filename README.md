@@ -15,9 +15,8 @@ Please check the [projects](#projects) section for more details.
 ---
 ## Projects
 <details><summary>Symfony UX Chart.js</summary>  
-<p>
 
-![Symfony UX Chart](todo)
+<p>![Symfony UX Chart](https://user-images.githubusercontent.com/5810350/218063260-f11af1b3-7928-4ef5-832b-153befb8c1cb.png)
 
 **Project Description:** Discover Symfony UX components and enhance your front-end using Symfony UX Chart.js
 **Project Link:** https://github.com/habibun/symfony-ux/tree/jakub-tobiasz  
