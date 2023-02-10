@@ -20,7 +20,7 @@ Please check the [projects](#projects) section for more details.
 <img 
 src="https://user-images.githubusercontent.com/5810350/218063260-f11af1b3-7928-4ef5-832b-153befb8c1cb.png" 
 alt="Symfony UX Chart" 
-height="300" 
+width="80%" 
 />
 
 **Project Description:** Discover Symfony UX components and enhance your front-end using Symfony UX Chart.js  
