@@ -1,5 +1,7 @@
 ## About The Project
-[Symfony UX][topic] resources for learning and practicing.
+[Symfony UX][topic] learning and practising resources, including some test projects.
+
+
 </br>  
 In this repository, every branch holds a separate example project except the main branch.  
 Please check the [projects](#projects) section for more details.
