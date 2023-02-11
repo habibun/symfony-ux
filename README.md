@@ -4,7 +4,7 @@
 
 </br>  
 In this repository, every branch holds a separate example project except the main branch.  
-Please check the [projects](# projects) section for more details.
+Please check the [projects](#projects) section for more details.
 
 
 ## Overview
@@ -15,9 +15,7 @@ Please check the [projects](# projects) section for more details.
 
 ## Projects
 <details><summary>Symfony UX Chart.js</summary>  
-
 <p>  
-
 
 <img 
 src="https://user-images.githubusercontent.com/5810350/218063260-f11af1b3-7928-4ef5-832b-153befb8c1cb.png" 
