@@ -4,6 +4,7 @@
 
 </br>  
 In this repository, every branch holds a separate example project except the main branch.  
+
 Please check the [projects](#projects) section for more details.
 
 
