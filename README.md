@@ -44,14 +44,14 @@ symfony server:start
 </details>
 
 
-#### Learn More
+## Learn More
 - [Official Symfony UX Docs](https://ux.symfony.com/)
 - [Stimulus](https://stimulus.hotwired.dev/)
 - [How Symfony UX United Two Worlds](https://blog.alphpaca.io/how-symfony-ux-united-two-worlds-21a89fc04410)
 - [Render beautiful graphs with chart.js](https://ux.symfony.com/chartjs)
 - [Chart.js](https://www.chartjs.org/)
 
----
+
 ## License
 Distributed under the MIT License. See **[LICENSE][license]** for more information.
 
